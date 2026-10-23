@@ -1,0 +1,18 @@
+# Local research references: preserve on disk, never publish or commit.
+/Bayesian NNs/
+/IFT conductivity identification/
+/Physics-informed IFT - Revised/
+/brownian bridge as prior/
+/ift map estimates ieee/
+/intake manifold final/
+/pm_ijer/
+/research statement MA/
+/teaching statement/
+/cv/
+/1000006721.jpg
+/instructions.rtf
+/.profile-reference.txt
+/.local/
+.DS_Store
+
+# Only deliberate public copies belong under site/assets/.
